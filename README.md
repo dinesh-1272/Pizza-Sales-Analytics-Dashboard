@@ -1,6 +1,6 @@
 # Pizza Sales Analytics Dashboard
 
-![Blinkit Dashboard]([https://github.com/dinesh-1272/Blinkit-Sales-Analytic-Dashboard/blob/main/Dashboard%20Image.png](https://github.com/dinesh-1272/Pizza-Sales-Analytics-Dashboard/blob/main/Dashboard.png))
+![Blinkit Dashboard](https://github.com/dinesh-1272/Pizza-Sales-Analytics-Dashboard/blob/main/Dashboard.png)
 
 ## Overview
 This project involves the development of a comprehensive dashboard to analyze pizza sales data, providing valuable insights to optimize operations and enhance strategic decision-making.
